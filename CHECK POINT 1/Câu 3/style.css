@@ -1,0 +1,58 @@
+.container{
+    width: 300px;
+    height: fit-content;
+    background-color: aqua;
+    padding: 15px 20px;
+
+}
+form{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+.container h1{
+    text-align: center;
+}
+input{
+    padding: 5px 0;
+    margin-bottom: 20px;
+    width: 80%;
+    text-align: center;
+}
+button{
+    padding: 5px 0;
+    font-size: medium;
+    width: 80%;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: rgb(1, 3, 5);
+    color: white;
+}
+button:active{
+    background-color: rgb(38, 40, 42);
+}
+select{
+    padding: 5px 0;
+    width: 57%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
